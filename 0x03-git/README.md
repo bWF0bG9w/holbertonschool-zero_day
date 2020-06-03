@@ -1,0 +1,1 @@
+This project is to learn the ins and outs of git
